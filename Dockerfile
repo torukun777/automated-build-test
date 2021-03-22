@@ -1,2 +1,2 @@
 FROM dockersamples/statuc-site
-ENV AUTHOR="Toru Matsushima"
+ENV AUTHOR="Toru Matsushima2"
